@@ -1,0 +1,17 @@
+﻿  MyForm.cpp
+C:\Users\Фвы\source\repos\sekirboshka\sekirboshka\MyForm.h(27,14): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Фвы\source\repos\sekirboshka\sekirboshka\MyForm.h(1311,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Фвы\source\repos\sekirboshka\sekirboshka\MyForm.h(1435,5): error C2059: синтаксическая ошибка: for
+C:\Users\Фвы\source\repos\sekirboshka\sekirboshka\MyForm.h(1435,23): warning C4552: "<": результат выражения не используется
+C:\Users\Фвы\source\repos\sekirboshka\sekirboshka\MyForm.h(1435,1): error C2059: синтаксическая ошибка: )
+C:\Users\Фвы\source\repos\sekirboshka\sekirboshka\MyForm.h(1437,6): error C2059: синтаксическая ошибка: if
+C:\Users\Фвы\source\repos\sekirboshka\sekirboshka\MyForm.h(1438,1): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Users\Фвы\source\repos\sekirboshka\sekirboshka\MyForm.h(1440,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Фвы\source\repos\sekirboshka\sekirboshka\MyForm.h(1450,1): error C2181: недопустимый else без парного if
+C:\Users\Фвы\source\repos\sekirboshka\sekirboshka\MyForm.h(1458,1): error C2059: синтаксическая ошибка: }
+C:\Users\Фвы\source\repos\sekirboshka\sekirboshka\MyForm.h(1458,1): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"
+C:\Users\Фвы\source\repos\sekirboshka\sekirboshka\MyForm.cpp(6,12): error C2337: STAThread: атрибут не найден
+C:\Users\Фвы\source\repos\sekirboshka\sekirboshka\MyForm.cpp(7,17): error C2065: String: необъявленный идентификатор
+C:\Users\Фвы\source\repos\sekirboshka\sekirboshka\MyForm.cpp(7,24): error C2059: синтаксическая ошибка: >
+C:\Users\Фвы\source\repos\sekirboshka\sekirboshka\MyForm.cpp(7,30): error C3699: ^: это косвенное обращение невозможно использовать для типа "unknown-type"
+C:\Users\Фвы\source\repos\sekirboshka\sekirboshka\MyForm.cpp(7,30): message : для продолжения работы компилятор заменил "^" на "*"
